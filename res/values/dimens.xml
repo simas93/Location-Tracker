@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_text_size">35sp</dimen>
+    <dimen name="list_margin_top">32dp</dimen>
+    <dimen name="list_padding">5dp</dimen>
+    <dimen name="list_number">20sp</dimen>
+    <dimen name="list_sides_margin_top">16dp</dimen>
+    <dimen name="list_text_size">15sp</dimen>
+    <dimen name="list_big_margin_left">8dp</dimen>
+    <dimen name="list_center_margin_top">8dp</dimen>
+    <dimen name="list_small_margin_left">4dp</dimen>
+    <dimen name="list_latlng_padding_right">50dp</dimen>
+    <dimen name="list_latitude_padding_left">32dp</dimen>
+    <dimen name="list_longitude_padding_right">32dp</dimen>
+    <dimen name="list_address_padding_right">48dp</dimen>
+</resources>
